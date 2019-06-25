@@ -8,8 +8,7 @@ MipMapTestTextureGenerator generates a texture which has custom mipmap.
 
 <img src="https://github.com/XJINE/Unity_MipMapTestTextureGenerator/blob/master/Screenshot02.png" width="100%" height="auto" />
 
-Show "Custom" menu and select "MipMapTestTextureGenerator".
-Then, set a size and colors to fill each miplevel texture.
+Show "Custom" menu and select "MipMapTestTextureGenerator". Then, set a size and some colors to fill each mip-level texture.
 
 ## Import to Your Project
 
